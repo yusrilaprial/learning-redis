@@ -1,0 +1,4 @@
+set yusril "M Yusril Aprial"
+set anto "Anto Putradewa"
+set zidan "Zidan"
+set ayu "Ayu Zahra"
