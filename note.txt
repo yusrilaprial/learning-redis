@@ -26,7 +26,7 @@ redis-cli -h localhost -p 6379
 ======================================================================================================================================
 
 Note:
-1. membuat database dibatasai hanya angka sesuai dengan jumlah config databases nya: 0-16 (database - 1)
+1. membuat database dibatasi hanya angka sesuai dengan jumlah config databases nya: 0-16 (database - 1)
 
 Cara Select: select index-database
 select 1
@@ -73,7 +73,7 @@ Operation Increment & Decrement
 3. increment by given amount
 	incrby key increment
 4. decrement by given amount
-	decrbt ley decrement
+	decrby key decrement
 
 Operation flush
 1. remove all keys from current databases
